@@ -1,3 +1,5 @@
 import streamlit as st
 
-st.write("hola mundo")
+
+def main():
+    st.write("hola mundo")
