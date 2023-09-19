@@ -48,3 +48,4 @@ watchdog==3.0.0
 zipp==3.16.2
 mysqlclient==2.2.0
 plotly==5.17.0
+sqlalchemy==2.0.21
