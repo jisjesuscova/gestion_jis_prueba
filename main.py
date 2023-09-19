@@ -1,7 +1,7 @@
 import streamlit as st
 import requests
 
-BASE_URL = 'https://apijis.azurewebsites.net/login_users/token'
+BASE_URL = 'https://apijis.com/login_users/token'
 
 def obtener_usuarios():
     response = requests.get(BASE_URL)
