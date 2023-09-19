@@ -1,3 +1,8 @@
 import streamlit as st
+import requests
 
-st.write("hola home")
+# Crear una sesión
+session = requests.Session()
+
+
+st.write("hola mundo")
